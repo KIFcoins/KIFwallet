@@ -1,0 +1,2 @@
+debian/bin/KIFcoind usr/bin
+src/KIFcoind usr/lib/KIFcoin

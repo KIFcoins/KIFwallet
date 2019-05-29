@@ -1,0 +1,11 @@
+[Protocol]
+exec=KIFcoin-qt '%u'
+protocol=KIFcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
